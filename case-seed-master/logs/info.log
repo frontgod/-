@@ -1,0 +1,26 @@
+21:53:57.854 [main] INFO  com.bmw.seed.SeedApplication - Starting SeedApplication on DESKTOP-O5DJ1C3 with PID 33980 (E:\workspace\case-seed-master\target\classes started by C in E:\workspace\case-seed-master)
+21:53:57.858 [main] INFO  com.bmw.seed.SeedApplication - No active profile set, falling back to default profiles: default
+21:53:58.664 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+21:53:58.670 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+21:53:58.671 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+21:53:58.794 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+21:53:59.527 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+21:53:59.546 [main] INFO  com.bmw.seed.SeedApplication - Started SeedApplication in 2.066 seconds (JVM running for 3.621)
+21:56:21.869 [http-nio-80-exec-4] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+21:58:11.465 [main] INFO  com.bmw.seed.SeedApplication - Starting SeedApplication on DESKTOP-O5DJ1C3 with PID 39052 (E:\workspace\case-seed-master\target\classes started by C in E:\workspace\case-seed-master)
+21:58:11.471 [main] INFO  com.bmw.seed.SeedApplication - No active profile set, falling back to default profiles: default
+21:58:12.233 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+21:58:12.239 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+21:58:12.239 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+21:58:12.364 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+21:58:13.025 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+21:58:13.042 [main] INFO  com.bmw.seed.SeedApplication - Started SeedApplication in 1.899 seconds (JVM running for 3.177)
+21:58:43.655 [main] INFO  com.bmw.seed.SeedApplication - Starting SeedApplication on DESKTOP-O5DJ1C3 with PID 45248 (E:\workspace\case-seed-master\target\classes started by C in E:\workspace\case-seed-master)
+21:58:43.661 [main] INFO  com.bmw.seed.SeedApplication - No active profile set, falling back to default profiles: default
+21:58:44.444 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+21:58:44.451 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+21:58:44.451 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+21:58:44.580 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+21:58:45.238 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+21:58:45.260 [main] INFO  com.bmw.seed.SeedApplication - Started SeedApplication in 1.929 seconds (JVM running for 3.26)
+21:58:58.253 [http-nio-80-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
